@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# This is a basic workflow to help you get started with Actions
+
+>>>>>>> 0879943c0f8be1c0ec66ce91336c5529e679fae8
 name: Shell commands
 on: [push]
 jobs:
@@ -14,4 +19,7 @@ jobs:
           python3 -V
           touch my_file_with_workflow.py
           ls -l
+<<<<<<< HEAD
     
+=======
+>>>>>>> 0879943c0f8be1c0ec66ce91336c5529e679fae8
